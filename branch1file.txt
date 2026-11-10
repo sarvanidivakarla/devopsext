@@ -1,2 +1,2 @@
 This is the second text file.
-This is created in branch 1.
+This is created in branch 1 and change is being made in main (will give conflict).
