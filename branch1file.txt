@@ -1,2 +1,1 @@
-This is the second text file.
-This is created in branch 1.
+Change in branch1 file from branch1
